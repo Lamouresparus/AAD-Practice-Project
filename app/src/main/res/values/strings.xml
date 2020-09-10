@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AAD Practice Project</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="leaderboard">leaderboard</string>
+    <string name="learning_hours"> learning hours, </string>
+    <string name="skill_iq_score"> skill IQ score, </string>
+    <string name="project_submission">Project Submission</string>
+    <string name="project_on_github_link">Project on GITHUB(link)</string>
+    <string name="email_address">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="loading">fetching data...</string>
+</resources>
