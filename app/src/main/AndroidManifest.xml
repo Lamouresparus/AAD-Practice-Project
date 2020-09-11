@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_gads_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".submit.SubmitActivity" android:parentActivityName=".leaderboard.MainActivity"/>
+        <activity android:name=".submit.SubmitActivity" android:parentActivityName=".leaderboard.MainActivity"
+            android:theme="@style/AppTheme.Submit"/>
         <activity android:name=".leaderboard.MainActivity" />
         <activity
             android:name=".SplashActivity"
